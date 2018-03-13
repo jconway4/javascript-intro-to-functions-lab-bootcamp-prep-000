@@ -32,6 +32,8 @@ function sayHiToGrandma(string){
   if (string === 'I love you, Grandma.') {
     return "I love you, too."
   } if (string === lowercase) {
-    return string
+    return 'I can\'t hear you!'
+  } if (string === uppercase) {
+    return "YES INDEED!"
   }
 }
