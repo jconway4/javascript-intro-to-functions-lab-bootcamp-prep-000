@@ -29,5 +29,9 @@ mixedCase.toLowerCase() === mixedCase // false
 mixedCase.toUpperCase() === mixedCase // false
 
 function sayHiToGrandma(string){
-  
+  if (string === 'I love you, Grandma.') {
+    return "I love you, too."
+  }  {
+    
+  }
 }
